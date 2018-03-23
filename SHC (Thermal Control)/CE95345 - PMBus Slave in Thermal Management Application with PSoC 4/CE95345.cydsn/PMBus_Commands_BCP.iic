@@ -1,0 +1,22 @@
+;********************************************************************************************************
+; PMBus Slave Example Project - Bridge Control Panel Command Scripts
+;
+; This file contains PMBus host command scripts to be used with the PMBus Slave example project.  All the
+; commands supported by the example project are included. The commands are:
+;
+; (0x8D)  READ_TEMPERATURE_1
+; (0x8B)  READ_VOUT
+;
+; In addition to this script file, the associated variable settings file should also be loaded in the 
+; Bridge Control Panel under the Chart->Variable Settings->Load Menu
+;
+; Refer to the example project datasheet for more information.
+;********************************************************************************************************
+; 1. READ THE TEMPERATURE FROM THE ON-CHIP TEMPERATURE SENSOR IN CELSIUS
+;********************************************************************************************************
+s 40 8D s 41 @0T1 @1T1 p
+
+;********************************************************************************************************
+; 2. READ MEASURED VOLTAGE FROM THE CHANNEL_0 OF THE ADC IN UNITS OF mV.
+;********************************************************************************************************
+s 40 8B s 41 @0V1 @1V1 p
