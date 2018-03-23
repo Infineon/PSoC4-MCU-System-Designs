@@ -24,7 +24,7 @@ If you are new to developing projects with PSoC 4 MCU, we recommend you to refer
 #### 5. [USB Connectivity Designs](https://github.com/cypresssemiconductorco/PSoC4-MCU-USB-Connectivity-Designs)
 #### 6. [Device Related Designs](https://github.com/cypresssemiconductorco/PSoC4-MCU-Device-Related-Designs)
 #### 7. [PSoC 4 Pioneer Kit](https://github.com/cypresssemiconductorco/PSoC4-MCU-Pioneer-Kits)
-#### 8. [System Design](https://github.com/cypresssemiconductorco/PSoC4-MCU-System-Designs)
+#### 8. [System Designs](https://github.com/cypresssemiconductorco/PSoC4-MCU-System-Designs)
 
 
 # Required Tools
