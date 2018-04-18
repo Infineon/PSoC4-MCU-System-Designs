@@ -52,9 +52,17 @@ To use the code examples in this repository, please download and install
 
 ## Code Example List
 
-### Serial Communication Block
+### SHC(Thermal Control) system
 #### 1. CE95345 - PMBus Slave in Thermal Management Application with PSoC 4
 This code example demonstrates usage of the PMBus Slave component in a simulated Thermal Management application.
+
+### SHC(Thermal Control) system
+#### 1. CE95315 - Auto Firmware Fan Control with Alert with PSoC 4
+This code example demonstrates operation of the Fan Controller component in Automatic (Firmware) mode with the PSoC Creator Software.
+#### 2. CE95318 - Firmware Fan Control with PSoC 3/4/5LP
+This project demonstrates the Fan Controller component configured for firmware based Fan Control enabling designers to customize the control algorithm.
+#### 3. AN89346 - PSoC4 Intelligent Fan Controller
+AN89346 demonstrates how to quickly and easily develop a four-wire brushless DC fan control system using PSoC® 4. The Fan Controller Component, available in PSoC Creator™, helps to manage the fans in a variety of configurations. This application note also shows how to combine fan control and temperature sensing to create a complete thermal management solution using PSoC 4.
 
 ## References
 #### 1. PSoC 4 MCU
