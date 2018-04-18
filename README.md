@@ -56,7 +56,7 @@ To use the code examples in this repository, please download and install
 #### 1. CE95345 - PMBus Slave in Thermal Management Application with PSoC 4
 This code example demonstrates usage of the PMBus Slave component in a simulated Thermal Management application.
 
-### SHC(Thermal Control) system
+### SHC(Fan Control) system
 #### 1. CE95315 - Auto Firmware Fan Control with Alert with PSoC 4
 This code example demonstrates operation of the Fan Controller component in Automatic (Firmware) mode with the PSoC Creator Software.
 #### 2. CE95318 - Firmware Fan Control with PSoC 3/4/5LP
